@@ -39,8 +39,8 @@ class Message
   end
 end
 
-user1 = User.new("Nasaree", "nasaree.yees@bumail.net", "password1584")
-user2 = User.new("Nitkul", "nitkul.keaw@bumail.net", "password456")
+user1 = User.new("Kanat", "kanat.thon@bumail.net", "kanat0428")
+user2 = User.new("Jakkrit", "jakkrit.sukl@bumail.net", "pete0626")
 room1 = Room.new("AIE312", "AIE312 chat room")
 
 user1.enter_room(room1)
